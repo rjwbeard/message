@@ -1,0 +1,9 @@
+.body {
+  display: flex;
+  flex-direction: column;
+  border: 2px red;
+}
+
+.create-secret-link {
+  border: 2px red;
+}
